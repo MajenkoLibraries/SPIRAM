@@ -1,0 +1,7 @@
+LICENSE usr/share/doc/libspiram-chipkit/
+README.md usr/share/doc/libspiram-chipkit/
+SPIRAM.cpp libraries/Storage/chipkit/SPIRAM/
+SPIRAM.h libraries/Storage/chipkit/SPIRAM/
+examples/RAMtest/RAMtest.hex libraries/Storage/chipkit/SPIRAM/examples/RAMtest
+examples/RAMtest/RAMtest.ino libraries/Storage/chipkit/SPIRAM/examples/RAMtest
+examples/RAMtest/RAMtest.lss libraries/Storage/chipkit/SPIRAM/examples/RAMtest
