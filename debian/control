@@ -9,6 +9,7 @@ Standards-Version: 3.9.4
 
 Package: libspiram-chipkit
 Architecture: all
+Provides: SPIRAM.h
 Depends: chipkit
 Description: SPIRAM library for chipkit
 
