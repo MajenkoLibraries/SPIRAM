@@ -1,0 +1,18 @@
+{
+    "name": "SPIRAM",
+    "provides": "SPIRAM.h",
+    "license": "LICENSE.md",
+    "readme": "README.md",
+    "description": "Interface chipKIT with multiple SPI RAM chips",
+    "category": "Storage",
+    "subcategory": "SRAM",
+    "maintainer": "Matt Jenkins <matt@majenko.co.uk>",
+    "version": "1.0.6",
+    "family": "pic32",
+    "core": "chipkit",
+    "install": {
+        "examples": "/",
+        "SPIRAM.cpp": "/",
+        "SPIRAM.h": "/"
+    }
+}

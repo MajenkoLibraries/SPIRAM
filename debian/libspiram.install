@@ -1,7 +1,0 @@
-LICENSE usr/share/doc/libspiram/
-README.md usr/share/doc/libspiram/
-SPIRAM.cpp libraries/Storage/SPIRAM/
-SPIRAM.h libraries/Storage/SPIRAM/
-examples/RAMtest/RAMtest.hex libraries/Storage/SPIRAM/examples/RAMtest
-examples/RAMtest/RAMtest.ino libraries/Storage/SPIRAM/examples/RAMtest
-examples/RAMtest/RAMtest.lss libraries/Storage/SPIRAM/examples/RAMtest
