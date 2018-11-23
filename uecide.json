@@ -7,7 +7,7 @@
     "category": "Storage",
     "subcategory": "RAM",
     "maintainer": "Matt Jenkins <matt@majenko.co.uk>",
-    "version": "1.0.6",
+    "version": "1.0.7",
     "family": "pic32",
     "core": "chipkit",
     "install": {
