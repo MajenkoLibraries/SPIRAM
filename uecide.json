@@ -5,7 +5,7 @@
     "readme": "README.md",
     "description": "Interface chipKIT with multiple SPI RAM chips",
     "category": "Storage",
-    "subcategory": "SRAM",
+    "subcategory": "RAM",
     "maintainer": "Matt Jenkins <matt@majenko.co.uk>",
     "version": "1.0.6",
     "family": "pic32",
